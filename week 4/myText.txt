@@ -1,0 +1,5 @@
+DB Design Process
+Requirement gathering
+Conceptual design
+Logical design
+
